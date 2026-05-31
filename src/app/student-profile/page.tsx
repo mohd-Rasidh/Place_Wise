@@ -4,7 +4,7 @@ import { students } from "@/lib/demo-data";
 export default function StudentProfilePage() {
   const student = students[0];
   return (
-    <DashboardShell role="student" title="Student Profile">
+    <DashboardShell role="student" title="Student Profile Page">
       <section className="rounded-lg border border-line bg-white p-6 shadow-soft">
         <div className="flex flex-col gap-5 md:flex-row md:items-start md:justify-between">
           <div>
