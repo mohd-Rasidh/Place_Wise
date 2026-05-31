@@ -6,7 +6,7 @@ export default function LoginPage() {
       <section className="w-full max-w-md rounded-lg border border-line bg-white p-7 shadow-soft">
         <Link href="/" className="flex items-center gap-3 text-2xl font-black text-navy">
           <span className="grid h-10 w-10 place-items-center rounded-lg bg-emerald text-white">P</span>
-          PlaceWise
+          PlaceWiseMaster
         </Link>
         <h1 className="mt-8 text-3xl font-black text-navy">Welcome back</h1>
         <p className="mt-2 text-slate-500">Use the demo shortcuts or connect NextAuth with the Prisma schema.</p>
